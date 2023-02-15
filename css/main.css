@@ -711,6 +711,7 @@ body {
 /* small-title */
 .small-title { 
   margin: 0 0 30px;
+  color: #1C284C;
   font-size: 36px;
   font-weight: 700;
   line-height: 44px;
